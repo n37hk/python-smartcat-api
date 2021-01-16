@@ -1,5 +1,5 @@
 ################################################################################
-# Smartcat API helper library
+# Smartcat API helper module
 #
 # Version: v1.0
 # Date: October 26, 2020
@@ -7,7 +7,7 @@
 # Support: nshaikh304@gmail.com
 #
 # Description:
-# This library implement methods to Create Project, Delete Project, Get Project Id, Upload Doocument, Download Document, Get Document Id on top of GET, POST and DELETE requests
+# This module implement methods to Create Project, Delete Project, Get Project Id, Upload Doocument, Download Document, Get Document Id on top of GET, POST and DELETE requests
 #
 # Notes:
 # > The Project created has pretranslation using MT enabled by default

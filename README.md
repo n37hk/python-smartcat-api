@@ -1,6 +1,14 @@
 # Python for Smartcat API
 Python module for Smartcat's API
 
+This module implements the following methods:
+* Create Project
+* Delete Project
+* Get Project Id
+* Upload Doocument
+* Download Document
+* Get Document Id 
+
 Notes:
 * api credentials are to be stored in a separate '.ini' file and its path should be specified in the python module line</br>
 `_config_file_path = 'YourPathTo/APICredentialsFile.ini'`
