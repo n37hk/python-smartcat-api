@@ -1,7 +1,7 @@
 # Python for Smartcat API
 Python module for Smartcat's API
 
-This module implements the following methods:
+This module implements the following methods to access Smartcat's document translation services using their API
 * Create Project
 * Delete Project
 * Get Project Id
